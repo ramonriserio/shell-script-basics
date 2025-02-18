@@ -8,7 +8,7 @@ Por exemplo, se você usar a opção de user data da AWS, há uma chance de usar
 
 Além disso, o shell script é útil para tarefas de desenvolvimento repetíveis. Por exemplo, pode ser a criação de uma VM Vagrant com o software essencial ou a configuração do próprio ambiente de desenvolvimento.  
 
-Nos diretórios deste repositórios são utilizados os seguintes comandos de shell script:
+Nos diretórios deste repositório são utilizados os seguintes comandos de shell script:
 
 - echo
 - read
